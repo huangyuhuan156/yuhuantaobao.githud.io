@@ -1,43 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>淘宝网 - 淘！我喜欢</title>
-	<!-- 引入css文件 -->
-	<link rel="stylesheet" href="http://at.alicdn.com/t/font_1476086402_7038264.css">
-	<link rel="stylesheet" href="css/resetStyle.css">
-	<link rel="stylesheet" href="css/QR.css">
-	<link rel="stylesheet" href="css/fixed-nav.css">
-	<link rel="stylesheet" href="css/fixed-search.css">
-	<link rel="stylesheet" href="css/help.css">
-	<link rel="stylesheet" href="css/link.css">
-	<link rel="stylesheet" href="css/nav.css">
-	<link rel="stylesheet" href="css/often-visit.css">
-	<link rel="stylesheet" href="css/trail.css">
-	<link rel="stylesheet" href="css/side-nav.css">
-	<link rel="stylesheet" href="css/slide1.css">
-	<link rel="stylesheet" href="css/slide2.css">
-	<link rel="stylesheet" href="css/search.css">
-	<link rel="stylesheet" href="css/head.css">
-	<link rel="stylesheet" href="css/aliAPP.css">
-	<link rel="stylesheet" href="css/side-announcement.css">
-	<link rel="stylesheet" href="css/side-recharge.css">
-	<link rel="stylesheet" href="css/side-user.css">
-	<link rel="stylesheet" href="css/hot-today.css" />
-	<link rel="stylesheet" href="css/popularity.css" />
-	<link rel="stylesheet" href="css/my-often-visit.css" />
-	<link rel="stylesheet" href="css/ifashion.css" />
-	<link rel="stylesheet" href="css/quality.css">
-    <link rel="stylesheet" href="css/feature.css">
-    <link rel="stylesheet" href="css/benefits.css">
-    <link rel="stylesheet" href="css/headline.css">
-    <link rel="stylesheet" href="css/goodGoods.css">
-    <link rel="stylesheet" href="css/goodShop.css">
-    <link rel="stylesheet" href="css/hotSale.css">
-    <link rel="stylesheet" href="css/hotSaleBottom.css">
-    <link rel="stylesheet" href="css/guessYouLike.css">
-    <link rel="shortcut icon" href="img/title.ico" type="image/x-icon"/>  
-	<style>
+
 		body{ background: #F1F1F1; }
 		#search{ width: inherit; height: inherit; background: #fff; }
 		#logo,.search,.QR-code{ float: left; }
