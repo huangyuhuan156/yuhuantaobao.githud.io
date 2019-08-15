@@ -1,16 +1,16 @@
 由于文件过大，所以只展示index.html
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<!-- <head>
 	<meta charset="UTF-8">
 	<title>淘宝网 - 淘！我喜欢</title>
 	<!-- 引入css文件 -->
-	<link rel="stylesheet" href="http://at.alicdn.com/t/font_1476086402_7038264.css">
+<!-- 	<link rel="stylesheet" href="http://at.alicdn.com/t/font_1476086402_7038264.css">
 	<link rel="stylesheet" href="css/resetStyle.css">
 	<link rel="stylesheet" href="css/QR.css">
-	<link rel="stylesheet" href="css/fixed-nav.css">
-	<link rel="stylesheet" href="css/fixed-search.css">
-	<link rel="stylesheet" href="css/help.css">
+        <link rel="stylesheet" href="css/fixed-nav.css"> -->
+	<link rel="stylesheet" href="css/fixed-search.css"> -->
+	<link rel="stylesheet" href="css/help.css"> -->
 	<link rel="stylesheet" href="css/link.css">
 	<link rel="stylesheet" href="css/nav.css">
 	<link rel="stylesheet" href="css/often-visit.css">
